@@ -9,6 +9,7 @@
         <AssemblyName>InfluxDB.Client.Core</AssemblyName>
         <VersionPrefix>4.14.0</VersionPrefix>
         <VersionSuffix>dev</VersionSuffix>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
 
         <PackageId>InfluxDB.Client.Core</PackageId>
         <PackageTags>influxdata;timeseries;flux;influxdb</PackageTags>
